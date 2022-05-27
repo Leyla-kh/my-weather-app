@@ -1,0 +1,53 @@
+.Weather {
+  border: 1px solid rgba(126, 123, 123, 0.514);
+  max-width: 800px;
+  border-radius: 5px;
+  margin: 50px auto 0px;
+  padding: 20px 5px 35px 20px;
+}
+.search-form {
+  margin-bottom: 50px;
+}
+.search-city {
+  display: inline-block;
+  height: 50px;
+  width: 100%;
+  padding: 5px;
+  border: 1px solid rgba(126, 123, 123, 0.514);
+  border-radius: 5px;
+}
+.btn-branding {
+  margin: 0px auto;
+  display: block;
+  padding: 10px 25px;
+  background-color: rgb(187, 130, 240);
+  color: white;
+  font-size: 18px;
+}
+ul {
+  list-style: none;
+}
+.city-name {
+  font-size: 50px;
+  margin-bottom: 10px;
+  color: rgb(85, 84, 84);
+}
+.temperatue {
+  margin-top: 5px;
+  margin-left: 25px;
+  font-size: 50px;
+}
+.temp-uint {
+  position: relative;
+  top: -24px;
+  font-size: 20px;
+}
+footer {
+  margin-top: 10px;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 150px;
+}
