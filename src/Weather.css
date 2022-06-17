@@ -24,30 +24,3 @@
   color: white;
   font-size: 18px;
 }
-ul {
-  list-style: none;
-}
-.city-name {
-  font-size: 50px;
-  margin-bottom: 10px;
-  color: rgb(85, 84, 84);
-}
-.temperatue {
-  margin-top: 5px;
-  margin-left: 25px;
-  font-size: 50px;
-}
-.temp-uint {
-  position: relative;
-  top: -24px;
-  font-size: 20px;
-}
-footer {
-  margin-top: 10px;
-  text-align: center;
-}
-img {
-  display: block;
-  margin: auto;
-  width: 150px;
-}

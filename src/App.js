@@ -8,7 +8,7 @@ function App() {
         <Weather />
         <footer className="App-header">
           This project was coded by Leyla kheiry and is{" "}
-          <a href="https://github.com/Leyla-kh/my-weather-app">
+          <a href="https://github.com/Leyla-kh/my-weather-app" target="_blank">
             open-sourced by GitHub
           </a>
         </footer>
