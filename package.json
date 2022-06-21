@@ -1,4 +1,8 @@
+
 {
+  "overrides": {
+    "autoprefixer": "10.4.5"
+},
   "name": "my-weather-app",
   "version": "0.1.0",
   "private": true,
